@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "openzeppelin-solidity": "2.3",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "author": "thinhtq4",
+  "license": "ISC"
+}
